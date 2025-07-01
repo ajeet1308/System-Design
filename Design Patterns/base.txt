@@ -1,0 +1,1 @@
+This folder contains good resource to look for Studying Design Patterns
