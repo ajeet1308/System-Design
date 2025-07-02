@@ -15,6 +15,9 @@ Cons:
 - In case of multi-threaing, ensure proper locking mechanism to avoid race conditions.
 - Difficult to test as it is global and can be accessed from anywhere, can not predict behavior.
 - Singleton doesn't matter in multi-instance servers.
+
+Must Read Articles:
+- https://python.plainenglish.io/design-patterns-in-python-singleton-5095a4c14f
 """
 from kafka import KafkaProducer
 import logging
