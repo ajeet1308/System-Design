@@ -1,0 +1,29 @@
+1)
+💻 Round 1: Online Assessment (OA)
+- Duration: 70 minutes | 4 Questions
+- Platform: Uber Backend Coding Test (General Coding Framework)
+- Task: I don’t remember the exact question, but it was a LeetCode medium-level problem.
+- Result: Scored 90% and received invite for next round.
+
+🔷 Round 2: DSA [Screening]
+- Duration: 1 hour
+- Question: Dynamic Programming (DP) problem + Graph Problem
+
+🔢 Round 3: DSA Round
+- Duration: 1 hour
+- Question: Majorly Focused on DP (medium-hard).
+
+🏗️ Round 4: Low-Level Design + Machine Coding (LLD)
+- Duration: 1 hour
+- Task: A variation of the meeting scheduler.
+- Clarified functional requirements, discussed class attributes and methods.
+- Had a detailed discussion on logic and complexity for scheduling meetings.
+- Expected to write fully working source code while handling concurrency and multithreading and questions around threading concepts. 
+
+🏛️ Round 5: High-Level Design (HLD)
+- Duration: 1 hour
+- 😓 I was confident about this round and didn’t prepared well, which led to a poor performance.
+- Task: Design an autosuggest recommendation model for destination addresses.
+- Discussion included components involved, Geo-hash/Quad-tree, logic, ingestion and processing.
+- The round didn’t go well, and I was rejected afterward.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
